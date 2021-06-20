@@ -12,6 +12,8 @@
 /.next/
 /out/
 
+image.png
+
 # production
 /build
 
